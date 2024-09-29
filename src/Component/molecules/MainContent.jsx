@@ -23,7 +23,7 @@ function MainContent() {
 
     return (
         <div>
-            <div className="w-full min-h-screen flex justify-center items-start p-10 mt-24">
+            <div className="w-full min-h-screen flex justify-center items-start p-10 mt-24 bg-red-300">
                 <div className="w-[75%] flex flex-row flex-wrap gap-4 justify-evenly p-4">
                     {filteredState.map((item, index) => (
                         <CardItem item={item} key={index} />
