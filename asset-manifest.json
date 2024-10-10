@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pokemon-go/static/css/main.9182e5ae.css",
-    "main.js": "/pokemon-go/static/js/main.a6292f72.js",
+    "main.css": "/pokemon-go/static/css/main.29899e4b.css",
+    "main.js": "/pokemon-go/static/js/main.9d304aca.js",
     "static/js/453.3cad97bd.chunk.js": "/pokemon-go/static/js/453.3cad97bd.chunk.js",
     "static/media/logo.png": "/pokemon-go/static/media/logo.9631a0e0100b336ef8dd.png",
     "index.html": "/pokemon-go/index.html",
-    "main.9182e5ae.css.map": "/pokemon-go/static/css/main.9182e5ae.css.map",
-    "main.a6292f72.js.map": "/pokemon-go/static/js/main.a6292f72.js.map",
+    "main.29899e4b.css.map": "/pokemon-go/static/css/main.29899e4b.css.map",
+    "main.9d304aca.js.map": "/pokemon-go/static/js/main.9d304aca.js.map",
     "453.3cad97bd.chunk.js.map": "/pokemon-go/static/js/453.3cad97bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9182e5ae.css",
-    "static/js/main.a6292f72.js"
+    "static/css/main.29899e4b.css",
+    "static/js/main.9d304aca.js"
   ]
 }
